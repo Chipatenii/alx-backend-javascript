@@ -41,11 +41,11 @@ $ npm install
 1. Run the server:
    ```bash
    $ node server.js
-   ```
+   
 2. For development, use **Nodemon** to automatically reload:
-   ```bash
+   
    $ nodemon server.js
-   ```
+   
 
 ## File Structure
 - **database.csv**: A sample CSV file containing user data.
