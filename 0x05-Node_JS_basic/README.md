@@ -36,7 +36,6 @@ By completing this project, you will learn to:
 To get started with the project, ensure you have NodeJS and npm installed, then run the following command:
 ```bash
 $ npm install
-```
 
 ## Usage
 1. Run the server:
