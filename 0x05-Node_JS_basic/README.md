@@ -1,4 +1,4 @@
-```
+```markdown
 # 0x05. NodeJS Basics
 
 ## Description
@@ -36,7 +36,7 @@ By completing this project, you will learn to:
 To get started with the project, ensure you have NodeJS and npm installed, then run the following command:
 ```bash
 $ npm install
-```
+```markdown
 ## Usage
 1. Run the server:
    ```bash
